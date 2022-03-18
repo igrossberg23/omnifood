@@ -10,7 +10,7 @@ The HTML and CSS for this project were written by me alongside the course instru
 - A powerful *hero section* to draw the attention and immediately call the user to action with color focus on the buttons that generate business
 - A *featured in section* to convey brand trust and support from well-known reviews
 - Effective use of white space to create a seamless flow from one section to the next without overwhelming the user
-- Balanced use of icons and images to create a professional feel without boring the user4
+- Balanced use of icons and images to create a professional feel without boring the user
 - A consistent color theme throughout the page to establish brand identity and cohesion
 - A well-organized footer section that has both functionality and professional feel
 
